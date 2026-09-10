@@ -46,4 +46,3 @@ int main()
     }
     ans = (last-first)+1;
     cout<<ans;
-}
